@@ -20,7 +20,8 @@
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, and differnet `Programming Contest`.
 - :student: I’m currently learning `Advance Data Structure and Algorithms, Mathmetics, Optimization of Problems`.
 - :nerd_face: Always `learning new things`.
-<br>
+
+---
 
 ## 🧠 Competitive Programming Profiles
 
@@ -34,6 +35,7 @@
 - 🏅 [Spoj]
 - 🏅 [Lightoj] 
 - 🌐 [LeetCode](https://leetcode.com/m0stafa_kamal) – 500+ problems solved
+
 ---
 
 ## 🔧 Tech Stack
