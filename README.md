@@ -33,7 +33,7 @@
 	- 🔰: Number Theory and Combinatorics
 	- 🔰: Competitive Math Techniques
   	- 🔰: Data structures
-      	- 🔰: Geometry Problems
+    - 🔰: Geometry Problems
   
 - 🤓: Always eager to learn new things.
 
