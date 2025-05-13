@@ -136,5 +136,5 @@ Credit: [M0stafa](https://github.com/mostafa-cse)
 Last Edited on: 14/05/2025
 </div>
 
-<img src="https://capsule-render.vercel.app/api? type=waving&color=gradient&height=80&section=footer&text=My%20Footer&fontSize=18&fontColor=ffffff" alt="page footer graphic"/>
+<img src="https://capsule-render.vercel.app/api? type=waving&color=gradient&height=80&section=footer"/>
 
