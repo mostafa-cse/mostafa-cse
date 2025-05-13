@@ -1,26 +1,3 @@
-  <div style="position: relative; display: inline-block; font-family: Arial, sans-serif;">
-    <img 
-      src="https://camo.githubusercontent.com/4d6fa8bd308772d0ac584423a5c52507d4c18d9964c8a12f622632c4893be038/68747470733a2f2f772e77616c6c686176656e2e63632f66756c6c2f7a782f77616c6c686176656e2d7a786737676a2e6a7067" 
-      alt="alt README header" 
-      style="display: block; width: 100%; height: auto;"
-    >
-    <div 
-      style="
-        position: absolute;
-        top: 50%;
-        left: 50%;
-        transform: translate(-50%, -50%);
-        color: white;
-        font-size: 32px;
-        font-weight: bold;
-        text-shadow: 2px 2px 5px rgba(0,0,0,0.7);
-      "
-    >
-      Hi, I'm Mostafa Kamal!
-    </div>
-  </div>
-
-
 <h1 align="center">Hi , I'm Mostafa Kamal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=true&width=435&lines=5%2B+IUPC+Participation+;NCPC+Finalist+;Expert+at+Codeforces;5+Stars+at+CodeChef;Full+Stack+Developer+" alt="Typing SVG" /></a>
