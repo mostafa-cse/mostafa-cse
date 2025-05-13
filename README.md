@@ -1,8 +1,8 @@
 <p align="center"> 
-	<img src = "https://github.com/user-attachments/assets/31128a2c-4b04-48c6-945f-67c4a096191d"/>
+	<img src = "https://github.com/user-attachments/assets/31128a2c-4b04-48c6-945f-67c4a096191d" height=25px, width=160px/>
 </p>
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=mostafa-cse&label=Profile%20views&color=0047AB&style=plastic?" alt="mostafa-cse" height=25px, width=160px/> 
+	<img src="https://komarev.com/ghpvc/?username=mostafa-cse&label=Profile%20views&color=0047AB&style=plastic?" alt="mostafa-cse" /> 
 </p>
 ## <picture><img src = "![image](https://github.com/user-attachments/assets/626e87b6-b284-4fdd-8637-92b759d13610)
 " width = 50px></picture> About me
