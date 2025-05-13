@@ -95,8 +95,9 @@
 | <img width="700" align="center" src="https://github-readme-stats.vercel.app/api?username=mostafa-cse&theme=radical&hide_border=true" /> | <img width = "100%" align="right" src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mostafa-cse&theme=github_dark"/>
 
 <img width = "100%" align="center" src = "https://github-readme-activity-graph.vercel.app/graph?username=mostafa-cse&theme=radical&hide_border=true"/> 
-<img width = "100%" align="center" align="center" src = "https://github-profile-trophy.vercel.app/?username=mostafa-cse&theme=onedark&title=-Reviews&no-frame=true&margin-w=4&margin-h=4"/>
-
+<div align="Center">
+| ![CtorW's Stats](https://github-profile-trophy.vercel.app/?username=mostafa-cse&theme=onedark&title=-Reviews&no-frame=true&margin-w=4&margin-h=4)  |
+</div>
 
 
 ## 📂 Pinned Projects
