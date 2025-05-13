@@ -27,12 +27,13 @@
 - 🏆: 1× NCPC Finalist
 - 💻: I am a competitive programmer on Codeforces, AtCoder, LeetCode, CodeChef, and various other programming platforms.
 - 🧑‍🎓: I’m currently learning advanced topics.
-  	-🔰: Advanced Graph Algorithms
-  	-🔰: Dynamic Programming Optimization
-	-🔰: Number Theory and Combinatorics
-	-🔰: Competitive Math Techniques
-  	-🔰: Data structures
-        -🔰: problem optimizations.
+  
+  	- 🔰: Advanced Graph Algorithms
+  	- 🔰: Dynamic Programming Optimization
+	- 🔰: Number Theory and Combinatorics
+	- 🔰: Competitive Math Techniques
+  	- 🔰: Data structures
+        - 🔰: problem optimizations.
   
 - 🤓: Always eager to learn new things.
 
