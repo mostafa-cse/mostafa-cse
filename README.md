@@ -1,4 +1,6 @@
 <p align="center"> 
+	![Hi, I’m Mostafa Kamal](https://github.com/user-attachments/assets/085bd7b1-5c1c-473b-ad57-edc827fa072b)
+
 	<img src = "https://github.com/user-attachments/assets/31128a2c-4b04-48c6-945f-67c4a096191d" height=300px, width=25000px/>
 </p>
 <h1 align="center">Hi , Mostafa Kamal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
