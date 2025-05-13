@@ -96,7 +96,7 @@
 
 <img width = "100%" align="center" src = "https://github-readme-activity-graph.vercel.app/graph?username=mostafa-cse&theme=radical&hide_border=true"/> 
 <div align="Center">
-| ![CtorW's Stats](https://github-profile-trophy.vercel.app/?username=mostafa-cse&theme=onedark&title=-Reviews&no-frame=true&margin-w=4&margin-h=4)  |
+ ![CtorW's Stats](https://github-profile-trophy.vercel.app/?username=mostafa-cse&theme=onedark&title=-Reviews&no-frame=true&margin-w=4&margin-h=4)
 </div>
 
 
