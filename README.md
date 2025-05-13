@@ -27,6 +27,37 @@
 </p>
 
 <br>
+
+<h1 align="center">Hi , I'm Mostafa Kamal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=true&width=435&lines=5%2B+IUPC+Participation+;NCPC+Finalist+;Expert+at+Codeforces;5+Stars+at+CodeChef;Full+Stack+Developer+" alt="Typing SVG" /></a>
+</p>
+
+<br>
+
+<p align="center"> 
+	<img src="https://komarev.com/ghpvc/?username=mostafa-cse&label=Profile%20views&color=0047AB&style=plastic?" alt="mostafa-cse" height=25px, width=160px/> 
+
+	<a href = "https://commits.top/egypt.html" target="_blank">
+		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="mostafa-cse" target="_blank" height=25px, width=250px/> 
+	</a>
+
+</p>
+
+	
+## <picture><img src = "-------" width = 50px></picture> About me
+
+<picture> <img align="right" src="---------------" width = 250px></picture>
+
+<br><br>
+
+- :University: I am a `Junior` at [Faculty of Computers Science and Enginering](http://suez.edu.eg/ar/%d9%83%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa/) at [Jashore University Of Science and Technology](http://suez.edu.eg/ar/).
+- :trophy: 4x `IUPC` Finalist.
+- :trophy: 1x `NCPC` Finalist.
+- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, and differnet `Programming Contest`.
+- :student: I’m currently learning `Advance Data Structure and Algorithms, Mathmetics, Optimization of Problems`.
+- :nerd_face: Always `learning new things`.
+<br>
 ---
 
 ## 🧠 Competitive Programming Profiles
