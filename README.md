@@ -37,7 +37,13 @@
 - 🌐 [LeetCode](https://leetcode.com/m0stafa_kamal) – 500+ problems solved
 
 
+ ### 💳 Github Profile Summary Card
+ 
+ <div align=center>
+  
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mostafa-cse&theme=github_dark)
 
+  
 ## 🔧 Tech Stack
 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
