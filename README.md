@@ -27,7 +27,7 @@
 
 ## 🧠 Competitive Programming Profiles
 
-<picture> <img align="right" src="https://camo.githubusercontent.com/6f7b76611449b965092aee7c4bf135e656f4e9416189c0b84020fd9853cd1f93/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f54456e586b637348725034596564436868412f67697068792e676966" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/user-attachments/assets/aff6c9d1-1600-4465-86e3-5fd44ef9ba47" width = 250px></picture>
 - 💻 [Codeforces](https://codeforces.com/profile/M0stafa) – Expert (1700+)
 - [AtCoder](https://atcoder.jp/users/M0stafa) – 4 Kyu
 - [CodeChef]
