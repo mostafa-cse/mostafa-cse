@@ -27,8 +27,7 @@
 
 - 💻 [Codeforces](https://codeforces.com/profile/M0stafa) – Expert (1700+)
 - [AtCoder](https://atcoder.jp/users/M0stafa) – 4 Kyu
-- ![image](https://github.com/user-attachments/assets/17b1fc5b-9db6-425f-82cc-43c077f31dfc)
- [CodeChef]
+- [CodeChef]
 - 🏅 [Hacckerank]
 - 🏅 [Vjudge]
 - 🏅 [USACO]
