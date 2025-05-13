@@ -129,7 +129,10 @@ _Thank you for visiting my profile! Have a great day! 😊_
 -----
 <br />
 
-
+<div align = "center">
+	
 Credit: [M0stafa](https://github.com/mostafa-cse)
 
 Last Edited on: 14/05/2025
+</div>
+
