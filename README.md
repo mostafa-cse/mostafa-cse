@@ -1,3 +1,17 @@
+<p align="center"> 
+	<img ![image](https://github.com/user-attachments/assets/fc3e6233-e3d0-4d56-bbd3-7a9519106690)/> 
+</p>
+<p align="center"> 
+	<img src="https://komarev.com/ghpvc/?username=mostafa-cse&label=Profile%20views&color=0047AB&style=plastic?" alt="mostafa-cse" height=25px, width=160px/> 
+</p>
+## <picture><img src = "![image](https://github.com/user-attachments/assets/626e87b6-b284-4fdd-8637-92b759d13610)
+" width = 50px></picture> About me
+
+<picture> <img align="right" src="![image](https://github.com/user-attachments/assets/5eb35c8e-fa11-474a-b201-3ce121e46058)
+" width = 250px></picture>
+
+<br>
+<br>
 <h1 align="center">Hi , Mostafa Kamal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=true&width=435&lines=5%2B+IUPC+Participation+;NCPC+Finalist+;Expert+at+Codeforces;5+Stars+at+CodeChef;Full+Stack+Developer+" alt="Typing SVG" /></a>
@@ -5,25 +19,6 @@
 
 <br>
 
-
-<p align="center"> 
-	<img ![image](https://github.com/user-attachments/assets/fc3e6233-e3d0-4d56-bbd3-7a9519106690)/> 
-</p>
-
-
-<p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=mostafa-cse&label=Profile%20views&color=0047AB&style=plastic?" alt="mostafa-cse" height=25px, width=160px/> 
-
-</p>
-
-	
-## <picture><img src = "![image](https://github.com/user-attachments/assets/626e87b6-b284-4fdd-8637-92b759d13610)
-" width = 50px></picture> About me
-
-<picture> <img align="right" src="![image](https://github.com/user-attachments/assets/5eb35c8e-fa11-474a-b201-3ce121e46058)
-" width = 250px></picture>
-
-<br><br>
 
 - :University: I am a `Junior` at [Faculty of Computers Science and Enginering](http://suez.edu.eg/ar/%d9%83%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa/) at [Jashore University Of Science and Technology](http://suez.edu.eg/ar/).
 - :trophy: 4x `IUPC` Finalist.
