@@ -120,5 +120,8 @@ Check out my competitive programming repositories:
 - 💼 [LinkedIn](https://linkedin.com/in/m0stafa-kamal)  
 - 📧 (https://facebook.com/muhammadm0stafa/)
 
+| Snake Eating Contributions in the last year |
+| ------------------------------------------|
+| ![snakkeee](https://github.com/user-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5) | 
 
 _Thank you for visiting my profile! Have a great day! 😊_
