@@ -1,5 +1,5 @@
 <p align="center"> 
-	<img src = "https://github.com/user-attachments/assets/085bd7b1-5c1c-473b-ad57-edc827fa072b" height=300px, width=25000px/>
+	<img src = "https://github.com/user-attachments/assets/085bd7b1-5c1c-473b-ad57-edc827fa072b" height=600, width=25000px/>
 </p>
 <h1 align="center">Hi , Mostafa Kamal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
