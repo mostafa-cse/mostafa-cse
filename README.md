@@ -1,8 +1,6 @@
 <h1 align="center">Hi , I'm Mostafa Kamal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?  font=Fira+Code&pause=1000&width=435&lines=5%2B+IUPC+Participation+;NCPC+Finalist+;Expert+at+Codeforces;5+Stars+at+CodeChef;Full+Stack+Web+Developer+" alt="Typing SVG" />
-  </a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&random=true&width=435&lines=5%2B+IUPC+Participation+;NCPC+Finalist+;Expert+at+Codeforces;5+Stars+at+CodeChef;Full+Stack+Developer+" alt="Typing SVG" /></a>
 </p>
 
 <br>
