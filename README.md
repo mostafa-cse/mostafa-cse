@@ -87,7 +87,7 @@
 
 <br/>  
 | --- | --- | --- |
-| <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mostafa-cse&repo=mostafa-cse&theme=radical&show_icons=true&hide_border=true" /> | <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=mostafa-cse&show_icons=true&count_private=true&include_all_commits=true&theme=radical&show_icons=true&hide_border=true" /> | <img width="50%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mostafa-cse&theme=radical&hide_border=true" />
+| <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mostafa-cse&repo=mostafa-cse&theme=radical&show_icons=true&hide_border=true" /> | <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=mostafa-cse&show_icons=true&count_private=true&include_all_commits=true&theme=radical&show_icons=true&hide_border=true" /> | <img width="50%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mostafa-cse&theme=radical&hide_border=true" /> 
 | --- | --- | --- |
 |<img width="50%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mostafa-cse&theme=radical&hide_border=true" /> |
 <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=mostafa-cse&theme=radical&hide_border=true" />
