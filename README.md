@@ -32,9 +32,9 @@
 ## 📂 Pinned Projects
 
 Check out my competitive programming repositories:
-- 🔗 [CP-Templates](https://github.com/M0stafa/CP-Templates)
-- 🔗 [ICPC-Notebooks](https://github.com/Mostafa/ICPC-Notebooks)
-- 🔗 [OnlineJudge-Solutions](https://github.com/Mostafa/OnlineJudge-Solutions)
+- 🔗 [CP-Templates]
+- 🔗 [ICPC-Notebooks]
+- 🔗 [OnlineJudge-Solutions]
 
 ---
 
@@ -42,7 +42,7 @@ Check out my competitive programming repositories:
 
 - 📧 Email: mostafakamal.cse2022@gmail.com
 - 💼 [LinkedIn](https://linkedin.com/in/m0stafa-kamal)  
-- [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/muhammadm0stafa/)
+- 📧 (https://facebook.com/muhammadm0stafa/)
 ---
 
 _Thank you for visiting my profile! Have a great day! 😊_
