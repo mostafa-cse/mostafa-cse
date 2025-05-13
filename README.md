@@ -22,9 +22,11 @@
 </p>
 
 	
-## <picture><img src = "-------" width = 50px></picture> About me
+## <picture><img src = "![image](https://github.com/user-attachments/assets/626e87b6-b284-4fdd-8637-92b759d13610)
+" width = 50px></picture> About me
 
-<picture> <img align="right" src="---------------" width = 250px></picture>
+<picture> <img align="right" src="![image](https://github.com/user-attachments/assets/5eb35c8e-fa11-474a-b201-3ce121e46058)
+" width = 250px></picture>
 
 <br><br>
 
