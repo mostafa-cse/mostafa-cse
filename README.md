@@ -91,10 +91,10 @@
 | <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mostafa-cse&repo=mostafa-cse&theme=radical&show_icons=true&hide_border=true" /> | <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=mostafa-cse&show_icons=true&count_private=true&include_all_commits=true&theme=radical&show_icons=true&hide_border=true" /> | <img width="50%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mostafa-cse&theme=radical&hide_border=true" />
 | --- | --- | --- |
 |<img width="50%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mostafa-cse&theme=radical&hide_border=true" /> | <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=mostafa-cse&theme=radical&hide_border=true" /> | <img width = "50%" align="center" src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mostafa-cse&theme=github_dark"/> 
+| --- | 
+<img width = "50%" align="center" src = "https://github-readme-activity-graph.vercel.app/graph?username=mostafa-cse&theme=radical&hide_border=true"/>
 | --- |
-| <img width = "50%" align="center" src = "https://github-readme-activity-graph.vercel.app/graph?username=mostafa-cse&theme=radical&hide_border=true"/>
-| --- |
-| <img width = "50%" align="center" src = "https://github-profile-trophy.vercel.app/?username=mostafa-cse&theme=onedark&title=-Reviews&no-frame=true&margin-w=4&margin-h=4"/>
+<img width = "50%" align="center" src = "https://github-profile-trophy.vercel.app/?username=mostafa-cse&theme=onedark&title=-Reviews&no-frame=true&margin-w=4&margin-h=4"/>
 
 
 
@@ -107,9 +107,9 @@ Check out my competitive programming repositories:
 
 <div align=center>
 	
-| ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=mostafa-cse&show_icons=true&theme=tokyonight) | ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight) | 
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mostafa-cse&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=mostafa-cse&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+| ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=mostafa-cse&show_icons=true&theme=tokyonight) | ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
+
+| --- | --- | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mostafa-cse&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=mostafa-cse&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight)
 
 </div>
 
