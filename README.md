@@ -1,3 +1,10 @@
+<p align = "center">
+	<img src = "https://komarev.com/ghpvc/?username=10kartik&style=plastic&color=blueviolet" alt = "Profile Views"/>
+</p>
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
+
 <p align="center"> 
 	<img src = "https://github.com/user-attachments/assets/1f12fe18-7dba-4cc8-96de-eefa74467f01" height=250, width=2500/>
 </p>
