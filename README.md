@@ -87,54 +87,23 @@
 
 <br/>  
 
+ |---------------------|---------------------|---------------------|
+|<p>
+  <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mostafa-cse&repo=mostafa-cse&theme=radical&show_icons=true&hide_border=true" />
+</p>|<p><img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=mostafa-cse&show_icons=true&count_private=true&include_all_commits=true&theme=radical&show_icons=true&hide_border=true" /></p>|<p><img width="50%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mostafa-cse&theme=radical&hide_border=true" /></p>|
+|---------------------|---------------------|---------------------|
+|<p>
+  <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mostafa-cse&theme=radical&hide_border=true" />
+</p>|<p>
+  <img width="50%"align="right" src="https://github-readme-stats.vercel.app/api?username=mostafa-cse&theme=radical&hide_border=true" />
+</p>| 
+<p> <img width = "50%" align ="right" src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mostafa-cse&theme=github_dark"/> </p>|
+|---------------------|---------------------|---------------------|
+|<p> <img width = "50%" align ="right" src = "https://github-readme-activity-graph.vercel.app/graph?username=mostafa-cse&theme=radical&hide_border=true"/> </p>|
+|---------------------|---------------------|---------------------|
+|<p> <img width = "50%" align ="right" src = "https://github-profile-trophy.vercel.app/?username=mostafa-cse&theme=onedark&title=-Reviews&no-frame=true&margin-w=4&margin-h=4"/> </p>|
+|-----------------------------------------------------------------|
 
-
-## 📊 Profile Statistics
-
- <div align=center>
-
-![](https://github-readme-stats.vercel.app/api?username=mostafa-cse&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile)
-<br>
-
-</div>
- 
- ### 💳 Github Profile Summary Card
- 
- <div align=center>
-  
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mostafa-cse&theme=github_dark)
-  
- </div>
- 
- ### ⏱ Streak Stats
- 
- <div align=center>
-  
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mostafa-cse&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF)]
- </div>
- 
- 
- ## 📈 Activity Graph
- 
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mostafa-cse&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
- 	
- 
-
-### 📊 Most Used Language
-
- <div align=center>
-  
-[![](https://github-readme-stats.vercel.app/api/top-langs?username=mostafa-cse&show_icons=true&locale=en&layout=compact&theme=radical)]()  
-  
- </div>
- 
- ### 🏆 Profile Trophies
-
-<div align=center>
- 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mostafa-cse&theme=onedark&title=-Reviews&no-frame=true&margin-w=4&margin-h=4)](https://github.com/ryo-ma/github-profile-trophy)
-  
-</div>
 
 
 ## 📂 Pinned Projects
@@ -155,9 +124,14 @@ Check out my competitive programming repositories:
 
 ## 📬 Contact Me
 
-- 📧 Email: mostafakamal.cse2022@gmail.com
-- 💼 [LinkedIn](https://linkedin.com/in/m0stafa-kamal)  
-- 📧 (https://facebook.com/muhammadm0stafa/)
+<a href="https://github.com/KasRoudra" target="_blank"><img src="https://img.shields.io/badge/Github-KasRoudra-green?style=for-the-badge&logo=github"></a>
+
+<a href="https://facebook.com/KasRoudra" target="_blank"><img src="https://img.shields.io/badge/FaceBook-KasRoudra-purple?style=for-the-badge&logo=facebook"></a>
+
+<a href="https://m.me/KasRoudra" target="_blank"><img src="https://img.shields.io/badge/Messenger-KasRoudra-red?style=for-the-badge&logo=messenger"></a>
+
+<a href="mailto:kasroudrakrd@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-kasroudrakrd@gmail.com-teal?style=for-the-badge&logo=gmail"></a>
+
 
 | Snake Eating Contributions in the last year |
 | ------------------------------------------|
