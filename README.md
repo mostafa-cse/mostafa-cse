@@ -108,13 +108,6 @@ Check out my competitive programming repositories:
 - 🔗 [OnlineJudge-Solutions]
 
 	
-| ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=mostafa-cse&show_icons=true&theme=tokyonight) | ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
-
-| --- | --- | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mostafa-cse&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=mostafa-cse&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight)
-
-</div>
-
-
 ## 📬 Contact Me
 
 <a href="https://github.com/KasRoudra" target="_blank"><img src="https://img.shields.io/badge/Github-KasRoudra-green?style=for-the-badge&logo=github"></a>
