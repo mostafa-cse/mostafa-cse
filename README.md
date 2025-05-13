@@ -1,5 +1,5 @@
 <p align="center"> 
-	<img src = "https://github.com/user-attachments/assets/31128a2c-4b04-48c6-945f-67c4a096191d" height=400px, width=25000px/>
+	<img src = "https://github.com/user-attachments/assets/31128a2c-4b04-48c6-945f-67c4a096191d" height=300px, width=25000px/>
 </p>
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=mostafa-cse&label=Profile%20views&color=0047AB&style=plastic?" alt="mostafa-cse" /> 
