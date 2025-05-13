@@ -68,12 +68,13 @@
  
  <div align=center>
   
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mostafa-cse&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF)](https://git.io/streak-stats)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mostafa-cse&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mostafa-cse&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF)]
  </div>
- 
- ### 📈 Activity Graph
-
+ <div align = "right">
+ 	### 📈 Activity Graph
+	[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mostafa-cse&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)]
+ </div>
+  	
  
 
 ### 📊 Most Used Language
