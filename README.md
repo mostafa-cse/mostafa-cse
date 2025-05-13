@@ -6,7 +6,7 @@
         <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
 </div>
 
-<h1 align="center">Hi , Mostafa Kamal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Mostafa Kamal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=true&width=435&lines=5%2B+IUPC+Participation+;NCPC+Finalist+;Expert+at+Codeforces;5+Stars+at+CodeChef;Full+Stack+Developer+" alt="Typing SVG" /></a>
 </p>
