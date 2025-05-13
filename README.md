@@ -73,10 +73,10 @@
  </div>
  
  ### 📈 Activity Graph
- <p>
+ <div align = "center">
 	  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mostafa-cse&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
- </p>
+ </div>
 
 ### 📊 Most Used Language
 
