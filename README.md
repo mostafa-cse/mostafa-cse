@@ -62,7 +62,7 @@ Check out my competitive programming repositories:
  <div align=center>
   
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mostafa-cse&theme=github_dark)
-
+</div>
 <br>
 
 
@@ -73,7 +73,17 @@ Check out my competitive programming repositories:
  <div align=center>
 
 ![](https://github-readme-stats.vercel.app/api?username=Abdalrahman-Alhamod&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile)
+</div>
 <br>
+
+ ### 🏆 Profile Trophies
+
+<div align=center>
+ 
+[![trophy](https://github-profile-trophy.vercel.app/?username=mostafa-cse&theme=onedark&title=-Reviews&no-frame=true&margin-w=4&margin-h=4)](https://github.com/ryo-ma/github-profile-trophy)
+  
+</div>
+
 
 
 ## Languages and Tools
