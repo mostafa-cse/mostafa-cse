@@ -37,12 +37,6 @@
 - 🌐 [LeetCode](https://leetcode.com/m0stafa_kamal) – 500+ problems solved
 
 
- ### 💳 Github Profile Summary Card
- 
- <div align=center>
-  
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mostafa-cse&theme=github_dark)
-
   
 ## 🔧 Tech Stack
 
@@ -60,6 +54,18 @@ Check out my competitive programming repositories:
 - 🔗 [CP-Templates]
 - 🔗 [ICPC-Notebooks]
 - 🔗 [OnlineJudge-Solutions]
+
+
+
+ ### 💳 Github Profile Summary Card
+ 
+ <div align=center>
+  
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mostafa-cse&theme=github_dark)
+
+<br>
+
+
 
 
 ## 📊 Profile Statistics
