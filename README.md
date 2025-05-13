@@ -74,9 +74,9 @@
  
  ## 📈 Activity Graph
  
- <div align="right">
+<div align=center>
   ![](https://github-readme-activity-graph.vercel.app/graph?username=mostafa-cse&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</div>
+ </div>
  	
  
 
