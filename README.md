@@ -21,13 +21,21 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 280px, height = 250></picture>
+ 
+- 🏫: I am a student in the Department of Computer Science and Engineering at Jashore University of Science and Technology.
+- 🏆: 4× IUPC Finalist
+- 🏆: 1× NCPC Finalist
+- 💻: I am a competitive programmer on Codeforces, AtCoder, LeetCode, CodeChef, and various other programming platforms.
+- 🧑‍🎓: I’m currently learning advanced topics.
+  	-🔰: Advanced Graph Algorithms
+  	-🔰: Dynamic Programming Optimization
+	-🔰: Number Theory and Combinatorics
+	-🔰: Competitive Math Techniques
+  	-🔰: Data structures
+        -🔰: problem optimizations.
+  
+- 🤓: Always eager to learn new things.
 
-- 🏫: I am a Student at [department of Computers Science and Enginering](http://suez.edu.eg/ar/%d9%83%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa/) at [Jashore University Of Science and Technology](http://suez.edu.eg/ar/).
-- 🏆: 4x `IUPC` Finalist.
-- 🏆: 1x `NCPC` Finalist.
-- 💻: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, and differnet `Programming Contest`.
-- 🧑‍🎓: I’m currently learning `Advance Data Structure and Algorithms, Mathmetics, Optimization of Problems`.
-- 🤓: Always `learning new things`.
 
 
 ## 🧠 Competitive Programming Profiles
