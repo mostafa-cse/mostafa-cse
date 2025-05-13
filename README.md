@@ -135,6 +135,7 @@ Credit: [M0stafa](https://github.com/mostafa-cse)
 
 Last Edited on: 14/05/2025
 </div>
-
-<img src="https://capsule-render.vercel.app/api? type=waving&color=gradient&height=80&section=footer"/>
+<div align="center">
+   <img width=200% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true&section=footer />
+</div>
 
