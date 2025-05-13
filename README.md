@@ -4,18 +4,20 @@
 </p>
 
 <br>
-
-🎯 Competitive Programmer | 💻 Problem Solver | 🌱 Lifelong Learner
-
-🏆 NCPC Regionalist | 🥇 IUPC Finalist | 💥 4★ CodeChef | Expert on Codeforces  
-📍 Bangladesh 🇧🇩 | 💬 I love algorithms, data structures, and optimization problems.
-
 ---
 
 ## 🧠 Competitive Programming Profiles
 
 - 💻 [Codeforces](https://codeforces.com/profile/M0stafa) – Expert (1700+)
 - 🏅 [AtCoder](https://atcoder.jp/users/M0stafa) – 4 Kyu
+- 🏅 [CodeChef]
+- 🏅 [Hacckerank]
+- 🏅 [Vjudge]
+- 🏅 [USACO]
+- 🏅 [Spoj]
+- ![image](https://github.com/user-attachments/assets/e6174d33-dd97-4a31-a138-7beef3891b12)
+ [Lightoj]
+- 
 - 🌐 [LeetCode](https://leetcode.com/m0stafa_kamal) – 500+ problems solved
 - 👨‍👩‍👧‍👦 ICPC Team: `JUST_ZENITH`, `ThreeLunimus`
 - 🏆 NCPC 2023 Final – Rank #183 / 300+
