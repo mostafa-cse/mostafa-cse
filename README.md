@@ -1,3 +1,7 @@
+<div align="center">
+   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+</div>
+
 <p align="center"> 
 	<img src = "https://github.com/user-attachments/assets/1f12fe18-7dba-4cc8-96de-eefa74467f01" height=250, width=2500/>
 </p>
