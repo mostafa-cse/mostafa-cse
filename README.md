@@ -21,7 +21,6 @@
 - :student: I’m currently learning `Advance Data Structure and Algorithms, Mathmetics, Optimization of Problems`.
 - :nerd_face: Always `learning new things`.
 <br>
------
 
 ## 🧠 Competitive Programming Profiles
 
@@ -35,11 +34,6 @@
 - 🏅 [Spoj]
 - 🏅 [Lightoj] 
 - 🌐 [LeetCode](https://leetcode.com/m0stafa_kamal) – 500+ problems solved
-- 👨‍👩‍👧‍👦 ICPC Team: `JUST_ZENITH`, `ThreeLunimus`
-- 🏆 NCPC 2023 Final – Rank #183 / 300+
-- 🏆 ICPC 2024 Prelims – Rank #151 / 400+
-- 🏅 IUPC 2024 (Khulna) – Rank #14
-- 🏅 IUPC 2025 (DUET) – Rank #54
 ---
 
 ## 🔧 Tech Stack
