@@ -1,5 +1,5 @@
 <p align="center"> 
-	<img ![image](![image](https://github.com/user-attachments/assets/039aab4c-0e59-4d54-952d-4415e2a00c82)/> 
+	(![image](https://github.com/user-attachments/assets/039aab4c-0e59-4d54-952d-4415e2a00c82)
 </p>
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=mostafa-cse&label=Profile%20views&color=0047AB&style=plastic?" alt="mostafa-cse" height=25px, width=160px/> 
