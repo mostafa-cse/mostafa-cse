@@ -20,7 +20,7 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 300px></picture>
 
 - 🏫: I am a Student at [department of Computers Science and Enginering](http://suez.edu.eg/ar/%d9%83%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa/) at [Jashore University Of Science and Technology](http://suez.edu.eg/ar/).
 - 🏆: 4x `IUPC` Finalist.
@@ -33,15 +33,15 @@
 ## 🧠 Competitive Programming Profiles
 
 <picture> <img align="right" src="https://camo.githubusercontent.com/a5ef8e36ecc4573a9ca9089a44af0f48b4774e21bf88087716644e51e9cdbeca/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4168337a4848376876735342322f67697068792e676966" width = 500, height = 250></picture>
-- 💻 [Codeforces](https://codeforces.com/profile/M0stafa) – Expert (1700+)
-- [AtCoder](https://atcoder.jp/users/M0stafa) – 4 Kyu
-- [CodeChef]
-- 🏅 [Hacckerank]
-- 🏅 [Vjudge]
-- 🏅 [USACO]
-- 🏅 [Spoj]
-- 🏅 [Lightoj] 
-- 🌐 [LeetCode](https://leetcode.com/m0stafa_kamal) – 500+ problems solved
+- ✳️: [Codeforces](https://codeforces.com/profile/M0stafa) – Expert (1700+)
+- ✳️: [AtCoder](https://atcoder.jp/users/M0stafa) – 4 Kyu
+- ✳️: [CodeChef]
+- ✳️: [Hacckerank]
+- ✳️: [Vjudge]
+- ✳️: [USACO]
+- ✳️: [Spoj]
+- ✳️: [Lightoj] 
+- ✳️: [LeetCode](https://leetcode.com/m0stafa_kamal) – 500+ problems solved
 
 
   
