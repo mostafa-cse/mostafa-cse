@@ -66,7 +66,13 @@ Check out my competitive programming repositories:
 <br>
 
 
+### 📊 Most Used Language
 
+ <div align=center>
+  
+[![](https://github-readme-stats.vercel.app/api/top-langs?username=mostafa-cse&show_icons=true&locale=en&layout=compact&theme=radical)]()  
+  
+ </div>
 
 ## 📊 Profile Statistics
 
