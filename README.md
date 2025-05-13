@@ -9,9 +9,8 @@
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=mostafa-cse&label=Profile%20views&color=0047AB&style=plastic?" alt="mostafa-cse" /> 
 </p>
-##<picture><img src = "https://github.com/user-attachments/assets/626e87b6-b284-4fdd-8637-92b759d13610" width = 50px/></picture> About me <picture> <img align="right" src="https://github.com/user-attachments/assets/5eb35c8e-fa11-474a-b201-3ce121e46058" width = 250px></picture>
+<picture><img src = "https://github.com/user-attachments/assets/626e87b6-b284-4fdd-8637-92b759d13610" width = 50px/></picture> About me <picture> <img align="right" src="https://github.com/user-attachments/assets/5eb35c8e-fa11-474a-b201-3ce121e46058" width = 250px></picture>
 <br>
-
 
 - :University: I am a `Junior` at [Faculty of Computers Science and Enginering](http://suez.edu.eg/ar/%d9%83%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa/) at [Jashore University Of Science and Technology](http://suez.edu.eg/ar/).
 - :trophy: 4x `IUPC` Finalist.
@@ -20,7 +19,7 @@
 - :student: I’m currently learning `Advance Data Structure and Algorithms, Mathmetics, Optimization of Problems`.
 - :nerd_face: Always `learning new things`.
 <br>
----
+-----
 
 ## 🧠 Competitive Programming Profiles
 
