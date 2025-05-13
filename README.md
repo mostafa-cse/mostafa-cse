@@ -21,7 +21,7 @@
 - :student: I’m currently learning `Advance Data Structure and Algorithms, Mathmetics, Optimization of Problems`.
 - :nerd_face: Always `learning new things`.
 
----
+
 
 ## 🧠 Competitive Programming Profiles
 
@@ -36,7 +36,7 @@
 - 🏅 [Lightoj] 
 - 🌐 [LeetCode](https://leetcode.com/m0stafa_kamal) – 500+ problems solved
 
----
+
 
 ## 🔧 Tech Stack
 
@@ -46,7 +46,7 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
----
+
 
 ## 📂 Pinned Projects
 
@@ -55,13 +55,13 @@ Check out my competitive programming repositories:
 - 🔗 [ICPC-Notebooks]
 - 🔗 [OnlineJudge-Solutions]
 
----
+
 
 ## 📬 Contact Me
 
 - 📧 Email: mostafakamal.cse2022@gmail.com
 - 💼 [LinkedIn](https://linkedin.com/in/m0stafa-kamal)  
 - 📧 (https://facebook.com/muhammadm0stafa/)
----
+
 
 _Thank you for visiting my profile! Have a great day! 😊_
