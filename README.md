@@ -117,9 +117,9 @@
 ## 📂 Pinned Projects
 
 Check out my competitive programming repositories:
-- 🔗 [CP-Templates]
-- 🔗 [ICPC-Notebooks]
-- 🔗 [OnlineJudge-Solutions]
+- 🔗 [CP-Templates](https://github.com/mostafa-cse/Most-Using-Templates-from-Different-Sources-)
+- 🔗 [ICPC-Notebooks](https://github.com/mostafa-cse/ICPC-NoteBook)
+- 🔗 [OnlineJudge-Solutions](https://vjudge.net/user/ilovesabnaj#)
 
 	
 
@@ -127,7 +127,7 @@ Check out my competitive programming repositories:
 
 <picture></picture>
 
-<a href="https://github.com/KasRoudra" target="_blank"><img src="https://img.shields.io/badge/Github-KasRoudra-green?style=for-the-badge&logo=github"></a> <a href="https://facebook.com/KasRoudra" target="_blank"><img src="https://img.shields.io/badge/FaceBook-KasRoudra-purple?style=for-the-badge&logo=facebook"></a> <a href="https://m.me/KasRoudra" target="_blank"><img src="https://img.shields.io/badge/Messenger-KasRoudra-red?style=for-the-badge&logo=messenger"></a> <a href="mailto:kasroudrakrd@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-kasroudrakrd@gmail.com-teal?style=for-the-badge&logo=gmail"></a>
+<a href="https://github.com/mostafa-cse" target="_blank"><img src="https://img.shields.io/badge/Github-M0stafa-green?style=for-the-badge&logo=github"></a> <a href="https://facebook.com/KasRoudra" target="_blank"><img src="https://img.shields.io/badge/FaceBook-KasRoudra-purple?style=for-the-badge&logo=facebook"></a> <a href="https://m.me/KasRoudra" target="_blank"><img src="https://img.shields.io/badge/Messenger-KasRoudra-red?style=for-the-badge&logo=messenger"></a> <a href="mailto:kasroudrakrd@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-kasroudrakrd@gmail.com-teal?style=for-the-badge&logo=gmail"></a>
 
 
 | Snake Eating Contributions in the last year |
