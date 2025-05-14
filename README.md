@@ -23,7 +23,7 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 450px, height = 400></picture>
  
 - 🏫: I am a student in the Department of Computer Science and Engineering at Jashore University of Science and Technology.
-- 🏆: 4× IUPC Finalist
+- 🏆: 4× IUPC Participation
 - 🏆: 1× NCPC Finalist
 - 💻: I am a competitive programmer on Codeforces, AtCoder, LeetCode, CodeChef, and various other programming platforms.
 - 🧑‍🎓: I’m currently learning advanced topics.
