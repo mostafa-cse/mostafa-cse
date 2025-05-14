@@ -101,9 +101,7 @@
 
 
 ## <picture><img src = "https://i.giphy.com/W5eoZHPpUx9sapR0eu.webp?raw=true" width = 50px></picture> Github Stats
-
 <picture> <img align="right" src=https://i.giphy.com/W5eoZHPpUx9sapR0eu.webp" width = 280px, height = 250></picture>
-
 
 | <img width="700" align="center" src="https://github-contributor-stats.vercel.app/api?username=mostafa-cse&limit=5&theme=radical&combine_all_yearly_contributions=true&show_icons=true&hide_border=true" /> | <img width="100%" align="right" src="https://github-readme-stats.vercel.app/api?username=mostafa-cse&theme=radical&hide_border=true" /> 
 |---|---|
@@ -138,13 +136,6 @@ Check out my competitive programming repositories:
 	            <a href="https://t.me/@M0stafa_Kamal" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" height="30"/>
 	</a>
 </p>
-
-
-<!--
-<a href="https://github.com/mostafa-cse" target="_blank"><img src="https://img.shields.io/badge/Github-M0stafa-green?style=for-the-badge&logo=github"></a> <a href="https://facebook.com/muhammadm0stafa" target="_blank"><img src="https://img.shields.io/badge/FaceBook-M0stafa-purple?style=for-the-badge&logo=facebook"></a> <a href="mailto:mostafakamal.cse2022@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-mostafakamal.cse2022@gmail.com-teal?style=for-the-badge&logo=gmail"></a> <a href="https://www.linkedin.com/in/m0stafa-kamal/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Mostafa" height="30"/></a> 
-
-<img src="https://img.shields.io/badge/linkedin:Mostafa%20Kamal%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>-->
 
 
 | Snake Eating Contributions in the last year |
