@@ -129,13 +129,13 @@ Check out my competitive programming repositories:
 	<a href="https://www.linkedin.com/in/m0stafa-kamal/" target="blank"><img align="center"
  src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
  alt="Mostafa" height="30"/></a>
-	<a href="https://www.facebook.com/muhammadm0stafa/" target="blank"><img align="center"
+	            <a href="https://www.facebook.com/muhammadm0stafa/" target="blank"><img align="center"
  src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white"
  alt="Mostafa" height="30"/></a>
-	<a href="mailto:mostafakamal.cse2022@gmail.com" target="blank"><img align="center"
+	            <a href="mailto:mostafakamal.cse2022@gmail.com" target="blank"><img align="center"
  src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
  alt="Mostafa" height="30"/></a> 
-	<a href="https://t.me/@M0stafa_Kamal" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" height="30"/>
+	            <a href="https://t.me/@M0stafa_Kamal" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" height="30"/>
 	</a>
 </p>
 
