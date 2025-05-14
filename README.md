@@ -135,7 +135,7 @@ Check out my competitive programming repositories:
  alt="Mostafa" height="30"/></a>
 <a href="mailto:mostafakamal.cse2022@gmail.com" target="blank"><img align="center"
  src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
- alt="Mostafa" height="30"/></a> <a href="https://t.me/@M0stafa_Kamal"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+ alt="Mostafa" height="30"/></a> <a href="https://t.me/@M0stafa_Kamal"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="30"/>
 </a>
 </p>
 
