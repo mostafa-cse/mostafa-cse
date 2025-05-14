@@ -97,7 +97,11 @@
 
 <br/>  
 
-## Github Stats
+
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Github Stats
+
+<picture> <img align="right" src=https://i.giphy.com/W5eoZHPpUx9sapR0eu.webp" width = 280px, height = 250></picture>
+
 
 | <img width="700" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mostafa-cse&repo=mostafa-cse&theme=radical&show_icons=true&hide_border=true" /> | <img width="100%" align="right" src="https://github-readme-stats.vercel.app/api?username=mostafa-cse&theme=radical&hide_border=true" /> 
 |---|---|
