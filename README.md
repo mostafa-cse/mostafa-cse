@@ -45,14 +45,14 @@
 
 <picture> <img align="right" src="https://camo.githubusercontent.com/a5ef8e36ecc4573a9ca9089a44af0f48b4774e21bf88087716644e51e9cdbeca/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4168337a4848376876735342322f67697068792e676966" width = 500, height = 250></picture>
 - ✳️: [Codeforces](https://codeforces.com/profile/M0stafa) – Expert (1700+)
-- ✳️: [AtCoder](https://atcoder.jp/users/M0stafa) – 4 Kyu
-- ✳️: [CodeChef]
-- ✳️: [Hacckerank]
-- ✳️: [Toph] 
-- ✳️: [Vjudge]
-- ✳️: [USACO]
-- ✳️: [Spoj]
-- ✳️: [Lightoj] 
+- ✳️: [AtCoder](https://atcoder.jp/users/mostafa___) – 9 Kyu
+- ✳️: [CodeChef](https://www.codechef.com/users/mostafa_188) - 2 Stars
+- ✳️: [Hacckerank](https://www.hackerrank.com/profile/mostafakamal_cs1)
+- ✳️: [Toph](https://toph.co/u/M0stafa)
+- ✳️: [Vjudge](https://vjudge.net/user/ilovesabnaj)
+- ✳️: USACO
+- ✳️: [Spoj](https://www.spoj.com/users/mostafa_188/)
+- ✳️: [Lightoj](https://lightoj.com/user/m0stafa_)
 - ✳️: [LeetCode](https://leetcode.com/m0stafa_kamal) – 500+ problems solved
 
 
