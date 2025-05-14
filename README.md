@@ -126,8 +126,10 @@ Check out my competitive programming repositories:
 ## <picture><img src = "https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width = 50px></picture> Connect with me
 
 <picture></picture>
-
-<a href="https://github.com/mostafa-cse" target="_blank"><img src="https://img.shields.io/badge/Github-M0stafa-green?style=for-the-badge&logo=github"></a> <a href="https://facebook.com/KasRoudra" target="_blank"><img src="https://img.shields.io/badge/FaceBook-KasRoudra-purple?style=for-the-badge&logo=facebook"></a> <a href="https://m.me/KasRoudra" target="_blank"><img src="https://img.shields.io/badge/Messenger-KasRoudra-red?style=for-the-badge&logo=messenger"></a> <a href="mailto:kasroudrakrd@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-kasroudrakrd@gmail.com-teal?style=for-the-badge&logo=gmail"></a>
+https://www.facebook.com//
+<a href="https://github.com/mostafa-cse" target="_blank"><img src="https://img.shields.io/badge/Github-M0stafa-green?style=for-the-badge&logo=github"></a> <a href="https://facebook.com/muhammadm0stafa" target="_blank"><img src="https://img.shields.io/badge/FaceBook-M0stafa-purple?style=for-the-badge&logo=facebook"></a> <a href="mailto:mostafakamal.cse2022@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-mostafakamal.cse2022@gmail.com-teal?style=for-the-badge&logo=gmail"></a> <a href="https://www.linkedin.com/in/m0stafa-kamal/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin:Mostafa Kamal%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+</a>
 
 
 | Snake Eating Contributions in the last year |
