@@ -125,7 +125,7 @@ Check out my competitive programming repositories:
 
 ## <picture><img src = "https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width = 50px></picture> Connect with me
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 280px, height = 250></picture>
+<picture></picture>
 
 <a href="https://github.com/KasRoudra" target="_blank"><img src="https://img.shields.io/badge/Github-KasRoudra-green?style=for-the-badge&logo=github"></a> <a href="https://facebook.com/KasRoudra" target="_blank"><img src="https://img.shields.io/badge/FaceBook-KasRoudra-purple?style=for-the-badge&logo=facebook"></a> <a href="https://m.me/KasRoudra" target="_blank"><img src="https://img.shields.io/badge/Messenger-KasRoudra-red?style=for-the-badge&logo=messenger"></a> <a href="mailto:kasroudrakrd@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-kasroudrakrd@gmail.com-teal?style=for-the-badge&logo=gmail"></a>
 
