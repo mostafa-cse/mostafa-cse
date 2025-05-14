@@ -98,7 +98,7 @@
 <br/>  
 
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Github Stats
+## <picture><img src = "https://i.giphy.com/W5eoZHPpUx9sapR0eu.webp?raw=true" width = 50px></picture> Github Stats
 
 <picture> <img align="right" src=https://i.giphy.com/W5eoZHPpUx9sapR0eu.webp" width = 280px, height = 250></picture>
 
