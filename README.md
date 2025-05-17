@@ -110,7 +110,7 @@
 <img width = "100%" align="center" src = "https://github-profile-trophy.vercel.app/?username=mostafa-cse&theme=radical&hide_border=true"/> 
 
 
-## 📂 Pinned Projects
+## <img src = "https://cdn.pixabay.com/animation/2023/04/14/11/37/11-37-27-253_512.gif Pinned Projects" width = 50></img> Pined Some Important Repo
 
 Check out my competitive programming repositories:
 - 🔗 [CP-Templates](https://github.com/mostafa-cse/Most-Using-Templates-from-Different-Sources-)
