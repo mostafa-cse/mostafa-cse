@@ -119,7 +119,7 @@ Check out my competitive programming repositories:
 
 	
 
-## <picture><img src = "https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width = 50px></picture> Connect with me
+## <picture><img src = "https://cdn.pixabay.com/animation/2023/04/14/11/37/11-37-27-253_512.gif" width = 50px></picture> Connect with me
 
 <p align="center">
 	<a href="https://www.linkedin.com/in/m0stafa-kamal/" target="blank"><img align="center"
