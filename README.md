@@ -110,16 +110,15 @@
 <img width = "100%" align="center" src = "https://github-profile-trophy.vercel.app/?username=mostafa-cse&theme=radical&hide_border=true"/> 
 
 
-## <img src = "https://cdn.pixabay.com/animation/2023/04/14/11/37/11-37-27-253_512.gif Pinned Projects" width = 50></img> Pined Some Important Repo
+## <img src = "https://cdn.pixabay.com/animation/2023/04/14/11/37/11-37-27-253_512.gif" width = 45></img> Pined Some Important Repo
 
 Check out my competitive programming repositories:
 - 🔗 [CP-Templates](https://github.com/mostafa-cse/Most-Using-Templates-from-Different-Sources-)
 - 🔗 [ICPC-Notebooks](https://github.com/mostafa-cse/ICPC-NoteBook)
 - 🔗 [OnlineJudge-Solutions](https://vjudge.net/user/ilovesabnaj#)
 
-	
 
-## <picture><img src = "https://cdn.pixabay.com/animation/2023/04/14/11/37/11-37-27-253_512.gif" width = 50px></picture> Connect with me
+## <picture><img src = "https://github.com/user-attachments/assets/78855472-cebe-49a7-b049-b9de52339513" width = 50px></picture> Connect with me
 
 <p align="center">
 	<a href="https://www.linkedin.com/in/m0stafa-kamal/" target="blank"><img align="center"
