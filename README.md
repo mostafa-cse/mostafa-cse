@@ -38,8 +38,6 @@
 
 
 ## <picture><img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 50px></picture> Competitive Programming Profiles
-
-<picture></picture>
  
 
 <picture> <img align="right" src="https://camo.githubusercontent.com/a5ef8e36ecc4573a9ca9089a44af0f48b4774e21bf88087716644e51e9cdbeca/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4168337a4848376876735342322f67697068792e676966" width = 500, height = 250></picture>
@@ -56,7 +54,7 @@
 
 
   
-## <img src = "https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"> </img> Tech Stack
+## <img src = "https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width = 50px> </img> Tech Stack
 
 <table align="center">
 <tr><td align="top" width="33%">
