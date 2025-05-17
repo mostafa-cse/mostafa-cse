@@ -37,8 +37,7 @@
 - 🤓: Always eager to learn new things.
 
 
-## <picture><img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 50px></picture> Competitive Programming Profiles
- 
+## <picture><img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 5px></picture> Competitive Programming Profiles
 
 <picture> <img align="right" src="https://camo.githubusercontent.com/a5ef8e36ecc4573a9ca9089a44af0f48b4774e21bf88087716644e51e9cdbeca/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4168337a4848376876735342322f67697068792e676966" width = 500, height = 250></picture>
 - ✳️: [Codeforces](https://codeforces.com/profile/M0stafa) – Expert (1700+)
@@ -118,7 +117,7 @@ Check out my competitive programming repositories:
 - 🔗 [OnlineJudge-Solutions](https://vjudge.net/user/ilovesabnaj#)
 
 
-## <picture><img src = "https://github.com/user-attachments/assets/78855472-cebe-49a7-b049-b9de52339513" width = 50px></picture> Connect with me
+## <picture><img src = "https://i.giphy.com/3pUjZpkzQI5gmxcchP.webp" width = 50px></picture> Connect with me
 
 <p align="center">
 	<a href="https://www.linkedin.com/in/m0stafa-kamal/" target="blank"><img align="center"
