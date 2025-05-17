@@ -117,7 +117,7 @@ Check out my competitive programming repositories:
 - 🔗 [OnlineJudge-Solutions](https://vjudge.net/user/ilovesabnaj#)
 
 
-## <picture><img src = "https://i.giphy.com/3pUjZpkzQI5gmxcchP.webp" width = 50px></picture> Connect with me
+## <picture><img src = "https://i.giphy.com/3pUjZpkzQI5gmxcchP.webp" height = 50, width = 50px></picture> Connect with me
 
 <p align="center">
 	<a href="https://www.linkedin.com/in/m0stafa-kamal/" target="blank"><img align="center"
