@@ -102,7 +102,7 @@
 <picture> <img align="right" src=https://i.giphy.com/W5eoZHPpUx9sapR0eu.webp" width = 280px, height = 250></picture>
 | <img width="700" align="center" src="https://github-contributor-stats.vercel.app/api?username=mostafa-cse&limit=5&theme=radical&combine_all_yearly_contributions=true&show_icons=true&hide_border=true" /> | <img width="100%" align="right" src="https://github-readme-stats.vercel.app/api?username=mostafa-cse&theme=radical&hide_border=true" /> 
 |---|---|
-<img width="700" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mostafa-cse&theme=radical&hide_border=true" /> | <img width="100%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafa-cse&theme=radical&hide_border=true" />
+<img width="700" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mostafa-cse&theme=radical&hide_border=true" /> | <img width="100%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafa-cse&langs_count=6&theme=radical&layout=compact&hide_border=true" />
 | <img width="700" align="center" src="https://github-readme-stats.vercel.app/api?username=mostafa-cse&theme=radical&hide_border=true" /> | <img width = "100%" align="right" src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mostafa-cse&theme=github_dark"/>
 
 <img width = "100%" align="center" src = "https://github-readme-activity-graph.vercel.app/graph?username=mostafa-cse&theme=radical&hide_border=true"/> 
