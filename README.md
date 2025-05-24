@@ -45,7 +45,7 @@
 - ✳️: [CodeChef](https://www.codechef.com/users/mostafa_188) - 2 Stars
 - ✳️: [Hacckerank](https://www.hackerrank.com/profile/mostafakamal_cs1)
 - ✳️: [Toph](https://toph.co/u/M0stafa)
-- ✳️: [Vjudge](https://vjudge.net/user/ilovesabnaj)
+- ✳️: [Vjudge](https://vjudge.net/user/mostafa_188)
 - ✳️: USACO
 - ✳️: [Spoj](https://www.spoj.com/users/mostafa_188/)
 - ✳️: [Lightoj](https://lightoj.com/user/m0stafa_)
