@@ -101,59 +101,56 @@
 ## <picture><img src = "https://i.giphy.com/W5eoZHPpUx9sapR0eu.webp?raw=true" width = 50px></picture> Github Stats
 <picture> <img align="right" src=https://i.giphy.com/W5eoZHPpUx9sapR0eu.webp" width = 280px, height = 250></picture>
 
-<table>
+<table style="width: 100%; border-collapse: collapse; table-layout: fixed;">
   <tr>
-    <td>
+    <td style="text-align: center; vertical-align: middle; font-size: 16px; padding: 8px;">
       <img
         src="https://github-contributor-stats.vercel.app/api?username=mostafa-cse&limit=5&theme=transparent&combine_all_yearly_contributions=true&show_icons=true&hide_border=true"
-        width="700"
         alt="Top 5 Contributors"
+        style="max-width: 100%; height: auto;"
       />
     </td>
-    <td>
+    <td style="text-align: center; vertical-align: middle; font-size: 16px; padding: 8px;">
       <img
         src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mostafa-cse&theme=transparent&layout=compact&hide_border=true"
-        width="80%"
-        style="display: block; margin-left: auto;"
         alt="Repos-Per-Language"
+        style="max-width: 100%; height: auto;"
       />
     </td>
   </tr>
   <tr>
-    <td>
+    <td style="text-align: center; vertical-align: middle; font-size: 16px; padding: 8px;">
       <img
         src="https://github-readme-streak-stats.herokuapp.com/?user=mostafa-cse&theme=transparent&hide_border=true"
-        width="700"
         alt="Streak Stats"
+        style="max-width: 100%; height: auto;"
       />
     </td>
-    <td>
+    <td style="text-align: center; vertical-align: middle; font-size: 16px; padding: 8px;">
       <img
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafa-cse&langs_count=6&theme=transparent&layout=compact&hide_border=true"
-        width="100%"
-        style="display: block; margin-left: auto;"
         alt="Top Languages"
+        style="max-width: 100%; height: auto;"
       />
     </td>
   </tr>
   <tr>
-    <td>
+    <td style="text-align: center; vertical-align: middle; font-size: 16px; padding: 8px;">
       <img
         src="https://github-readme-stats.vercel.app/api?username=mostafa-cse&theme=transparent&hide_border=true"
-        width="700"
         alt="Overall GitHub Stats"
+        style="max-width: 100%; height: auto;"
       />
     </td>
-    <td>
+    <td style="text-align: center; vertical-align: middle; font-size: 16px; padding: 8px;">
       <img
         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mostafa-cse&layout=compact&theme=transparent&hide_border=true"
-        width="100%"
         alt="Profile Details"
+        style="max-width: 100%; height: auto;"
       />
     </td>
   </tr>
 </table>
-
 
 
 <img width = "100%" align="center" src = "https://github-readme-activity-graph.vercel.app/graph?username=mostafa-cse&theme=radical&hide_border=true"/> 
