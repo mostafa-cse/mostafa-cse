@@ -40,16 +40,16 @@
 ## <picture><img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 5px></picture> Competitive Programming Profiles
 
 <picture> <img align="right" src="https://camo.githubusercontent.com/a5ef8e36ecc4573a9ca9089a44af0f48b4774e21bf88087716644e51e9cdbeca/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4168337a4848376876735342322f67697068792e676966" width = 500, height = 250></picture>
-- ✳️: [Codeforces](https://codeforces.com/profile/M0stafa) – Expert (1700+)
-- ✳️: [AtCoder](https://atcoder.jp/users/mostafa___) – 9 Kyu
-- ✳️: [CodeChef](https://www.codechef.com/users/mostafa_188) - 2 Stars
+- ✳️: [Codeforces](https://codeforces.com/profile/M0stafa)
+- ✳️: [AtCoder](https://atcoder.jp/users/mostafa___)
+- ✳️: [CodeChef](https://www.codechef.com/users/mostafa_188) 
 - ✳️: [Hacckerank](https://www.hackerrank.com/profile/mostafakamal_cs1)
 - ✳️: [Toph](https://toph.co/u/M0stafa)
 - ✳️: [Vjudge](https://vjudge.net/user/mostafa_188)
 - ✳️: USACO
 - ✳️: [Spoj](https://www.spoj.com/users/mostafa_188/)
 - ✳️: [Lightoj](https://lightoj.com/user/m0stafa_)
-- ✳️: [LeetCode](https://leetcode.com/m0stafa_kamal) – 500+ problems solved
+- ✳️: [LeetCode](https://leetcode.com/m0stafa_kamal)
 - ✳️: [Kattis](https://open.kattis.com/users/mostafa-kamal)
 - ✳️: [QOJ](https://qoj.ac/user/profile/M0stafa)
 - ✳️: [BaseCamp](https://basecamp.eolymp.com/en/users/M0stafa)
