@@ -185,7 +185,7 @@ Check out my competitive programming repositories:
 	</a>
 </p>
 
-
+<!-- </div>
 | Snake Eating Contributions in the last year |
 | ------------------------------------------|
 <div align="center">
@@ -194,14 +194,12 @@ Check out my competitive programming repositories:
 _Thank you for visiting my profile! Have a great day! 😊_
 
 -----
-<br />
+<br/>
+-->
 
-<div align = "center">
-	
+<div align = "center">	
 Credit: [M0stafa](https://github.com/mostafa-cse)
-
 Last Edited on: 14/05/2025
-</div>
 <div align="center">
    <img width=200% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true&section=footer />
 </div>
