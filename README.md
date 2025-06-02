@@ -158,7 +158,7 @@
 </table>
 
 <img width = "100%" align="center" src = "https://github-readme-activity-graph.vercel.app/graph?username=mostafa-cse&theme=transparent&hide_border=true"/> 
-<img width = "100%" align="center" src = "https://github-profile-trophy.vercel.app/?username=mostafa-cse&theme=transparent&hide_border=true"/> 
+<img width = "100%" align="center" src = "https://github-profile-trophy.vercel.app/?username=mostafa-cse&theme=gradient&hide_border=true"/> 
 
 
 ## <img src = "https://cdn.pixabay.com/animation/2023/04/14/11/37/11-37-27-253_512.gif" width = 25></img> Pined Some Important Repo
@@ -188,8 +188,9 @@ Check out my competitive programming repositories:
 
 | Snake Eating Contributions in the last year |
 | ------------------------------------------|
-| ![snakkeee](https://github.com/user-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5) | 
-
+<div align="center">
+	| ![snakkeee](https://github.com/user-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5) | 
+</div>
 _Thank you for visiting my profile! Have a great day! 😊_
 
 -----
