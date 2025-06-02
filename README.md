@@ -123,7 +123,7 @@
     </td>
   </tr>
 </table>
-</table>
+<table>
   <tr>
     <td>
       <img
