@@ -196,8 +196,10 @@ _Thank you for visiting my profile! Have a great day! 😊_
 <br/>
 -->
 
-<div align = "center">	
+<div align = "center">
+	
 Credit: [M0stafa](https://github.com/mostafa-cse)
+
 Last Edited on: 14/05/2025
 <div align="center">
    <img width=200% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true&section=footer />
