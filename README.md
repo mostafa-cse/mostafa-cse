@@ -50,10 +50,10 @@
 - ✳️: [Spoj](https://www.spoj.com/users/mostafa_188/)
 - ✳️: [Lightoj](https://lightoj.com/user/m0stafa_)
 - ✳️: [LeetCode](https://leetcode.com/m0stafa_kamal) – 500+ problems solved
-- ✳️: [Kattis]
-- ✳️: [QOJ]
-- ✳️: [BaseCamp]
-- ✳️: [OJ.UZ]
+- ✳️: [Kattis](https://open.kattis.com/users/mostafa-kamal)
+- ✳️: [QOJ](https://qoj.ac/user/profile/M0stafa)
+- ✳️: [BaseCamp](https://basecamp.eolymp.com/en/users/M0stafa)
+- ✳️: [OJ.UZ](https://oj.uz/profile/M0stafa)
 
 
   
