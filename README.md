@@ -50,6 +50,10 @@
 - ✳️: [Spoj](https://www.spoj.com/users/mostafa_188/)
 - ✳️: [Lightoj](https://lightoj.com/user/m0stafa_)
 - ✳️: [LeetCode](https://leetcode.com/m0stafa_kamal) – 500+ problems solved
+- ✳️: [Kattis]
+- ✳️: [QOJ]
+- ✳️: [BaseCamp]
+- ✳️: [OJ.UZ]
 
 
   
@@ -153,8 +157,8 @@
   </tr>
 </table>
 
-<img width = "100%" align="center" src = "https://github-readme-activity-graph.vercel.app/graph?username=mostafa-cse&theme=radical&hide_border=true"/> 
-<img width = "100%" align="center" src = "https://github-profile-trophy.vercel.app/?username=mostafa-cse&theme=radical&hide_border=true"/> 
+<img width = "100%" align="center" src = "https://github-readme-activity-graph.vercel.app/graph?username=mostafa-cse&theme=transparent&hide_border=true"/> 
+<img width = "100%" align="center" src = "https://github-profile-trophy.vercel.app/?username=mostafa-cse&theme=transparent&hide_border=true"/> 
 
 
 ## <img src = "https://cdn.pixabay.com/animation/2023/04/14/11/37/11-37-27-253_512.gif" width = 25></img> Pined Some Important Repo
