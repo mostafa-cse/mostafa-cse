@@ -101,17 +101,17 @@
 ## <picture><img src = "https://i.giphy.com/W5eoZHPpUx9sapR0eu.webp?raw=true" width = 50px></picture> Github Stats
 <picture> <img align="right" src=https://i.giphy.com/W5eoZHPpUx9sapR0eu.webp" width = 280px, height = 250></picture>
 
-| <img width="700" align="center" src="https://github-contributor-stats.vercel.app/api?username=mostafa-cse&limit=5&theme=transparent&combine_all_yearly_contributions=true&show_icons=true&hide_border=true" /> | <img width="80%" align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mostafa-cse&theme=dracula&layout=compact&hide_border=true"/> 
+| <img width="700" align="center" src="https://github-contributor-stats.vercel.app/api?username=mostafa-cse&limit=5&theme=transparent&combine_all_yearly_contributions=true&show_icons=true&hide_border=true" /> | <img width="80%" align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mostafa-cse&theme=transparent&layout=compact&hide_border=true"/> 
 |---|---|
-<img width="700" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mostafa-cse&theme=radical&hide_border=true" /> | <img width="100%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafa-cse&langs_count=6&theme=radical&layout=compact&hide_border=true" />
-| <img width="700" align="center" src="https://github-readme-stats.vercel.app/api?username=mostafa-cse&theme=radical&hide_border=true" /> | <img width = "100%" align="center" src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mostafa-cse&layout=compact&theme=radical&hide_border=true"/>
+<img width="700" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mostafa-cse&theme=transparent&hide_border=true" /> | <img width="100%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafa-cse&langs_count=6&theme=transparent&layout=compact&hide_border=true" />
+| <img width="700" align="center" src="https://github-readme-stats.vercel.app/api?username=mostafa-cse&theme=transparent&hide_border=true" /> | <img width = "100%" align="center" src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mostafa-cse&layout=compact&theme=transparent&hide_border=true"/>
 
 
 
 
 
-<img width = "100%" align="center" src = "https://github-readme-activity-graph.vercel.app/graph?username=mostafa-cse&theme=radical&hide_border=true"/> 
-<img width = "100%" align="center" src = "https://github-profile-trophy.vercel.app/?username=mostafa-cse&theme=radical&hide_border=true"/> 
+<img width = "100%" align="center" src = "https://github-readme-activity-graph.vercel.app/graph?username=mostafa-cse&theme=transparent&hide_border=true"/> 
+<img width = "100%" align="center" src = "https://github-profile-trophy.vercel.app/?username=mostafa-cse&theme=transparent&hide_border=true"/> 
 
 
 ## <img src = "https://cdn.pixabay.com/animation/2023/04/14/11/37/11-37-27-253_512.gif" width = 25></img> Pined Some Important Repo
