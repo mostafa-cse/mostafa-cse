@@ -108,33 +108,31 @@
   <tr>
     <td>
       <img
-        src="https://github-contributor-stats.vercel.app/api?username=mostafa-cse&limit=5&theme=transparent&combine_all_yearly_contributions=true&show_icons=true&hide_border=true"
+        src="https://github-contributor-stats.vercel.app/api?username=mostafa-cse&limit=5&theme=github_dark&combine_all_yearly_contributions=true&show_icons=true&hide_border=true"
         width="700"
         alt="Top 5 Contributors"
       />
     </td>
     <td>
       <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mostafa-cse&theme=transparent&layout=compact&hide_border=true"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mostafa-cse&theme=github_dark&layout=compact&hide_border=true"
         width="80%"
         style="display: block; margin-left: auto;"
         alt="Repos-Per-Language"
       />
     </td>
   </tr>
-</table>
-<table>
   <tr>
     <td>
       <img
-        src="https://github-readme-streak-stats.herokuapp.com/?user=mostafa-cse&theme=transparent&hide_border=true"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=mostafa-cse&theme=github_dark&hide_border=true"
         width="700"
         alt="Streak Stats"
       />
     </td>
     <td>
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafa-cse&langs_count=6&theme=transparent&layout=compact&hide_border=true"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafa-cse&langs_count=6&theme=github_dark&layout=compact&hide_border=true"
         width="100%"
         style="display: block; margin-left: auto;"
         alt="Top Languages"
@@ -144,14 +142,14 @@
   <tr>
     <td>
       <img
-        src="https://github-readme-stats.vercel.app/api?username=mostafa-cse&theme=transparent&hide_border=true"
+        src="https://github-readme-stats.vercel.app/api?username=mostafa-cse&theme=github_dark&hide_border=true"
         width="700"
         alt="Overall GitHub Stats"
       />
     </td>
     <td>
       <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mostafa-cse&layout=compact&theme=transparent&hide_border=true"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mostafa-cse&layout=compact&theme=github_dark&hide_border=true"
         width="100%"
         alt="Profile Details"
       />
