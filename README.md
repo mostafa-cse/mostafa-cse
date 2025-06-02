@@ -38,7 +38,7 @@
 - 🤓: Always eager to learn new things.
 
 
-## <picture><img src = "https://media.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif" width = 50px></picture> Competitive Programming Profiles
+## <picture><img src = "https://github.com/user-attachments/assets/d9d9ce8f-f6f8-485d-b48b-90ab4a32daf7" width = 50px></picture> Competitive Programming Profiles
 
 <picture> <img align="right" src="https://camo.githubusercontent.com/a5ef8e36ecc4573a9ca9089a44af0f48b4774e21bf88087716644e51e9cdbeca/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4168337a4848376876735342322f67697068792e676966" width = 500, height = 250></picture>
 - ✳️: [Codeforces](https://codeforces.com/profile/M0stafa)
