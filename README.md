@@ -3,10 +3,11 @@
 	<img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient&reversal=true&section=header/>
 </div>
 
-<!--Pic-->
-<div align=center>
+<!--Pic<div align=center>
         <img src="https://cdn.pixabay.com/animation/2023/01/16/09/28/09-28-54-112_512.gif" alt="Mostafa" height="250">
 </div>
+-->
+
 <h1 align="center">Hi , I'm Mostafa Kamal! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <!--write -->
