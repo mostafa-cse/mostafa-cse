@@ -166,8 +166,7 @@
 Check out my competitive programming repositories:
 - 🔗 [CP-Templates](https://github.com/mostafa-cse/Most-Using-Templates-from-Different-Sources-)
 - 🔗 [ICPC-Notebooks](https://github.com/mostafa-cse/ICPC-NoteBook)
-- 🔗 [OnlineJudge-Solutions](https://vjudge.net/user/ilovesabnaj#)
-
+- 🔗 [OnlineJudge-Solutions](https://codolio.com/profile/M0stafa/problemSolving)
 
 ## <picture><img src = "https://i.giphy.com/3pUjZpkzQI5gmxcchP.webp" height = 37, width = 40px></picture> Connect with me
 
