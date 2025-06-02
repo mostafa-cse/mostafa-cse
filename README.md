@@ -201,7 +201,5 @@ _Thank you for visiting my profile! Have a great day! 😊_
 Credit: [M0stafa](https://github.com/mostafa-cse)
 
 Last Edited on: 14/05/2025
-
-<div align="center">
-	<img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient&reversal=true&section=footer/>
 </div>
+<img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient&reversal=true&section=footer/>
