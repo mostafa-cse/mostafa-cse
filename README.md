@@ -1,6 +1,6 @@
 <!--  Header --> 
 <div align="center">
-   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=110&color=gradient&reversal=true />
+	<img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient&reversal=true&section=header/>
 </div>
 
 <!--Pic-->
@@ -202,6 +202,8 @@ Credit: [M0stafa](https://github.com/mostafa-cse)
 
 Last Edited on: 14/05/2025
 
-<img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient&reversal=true&section=footer />
+</div>
 
+<div align="center">
+	<img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient&reversal=true&section=footer/>
 </div>
