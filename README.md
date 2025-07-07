@@ -170,7 +170,7 @@
     </td>
     <td>
       <img
-        src="https://leetcard.jacoblin.cool/m0stafa_kamal?theme=transparent&border=0&radius=8&hide=background"
+        src="https://leetcard.jacoblin.cool/m0stafa_kamal?theme=transparent&border=0&radius=8&hide=background&ext=contest&sheets=https://gist.githubusercontent.com/RedHeadphone/5e715e284c89cace8f5fa09f7fb930b8/raw/ec0be570f114124b1a2156a660d67baa0ab5639d/leetcode_stats_card.css"
         width="100%"
         alt="Mostafa's Leetcode Stats"
       />
