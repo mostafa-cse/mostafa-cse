@@ -164,7 +164,7 @@
     <td>
       <img
         src= "https://codeforces-readme-stats.vercel.app/api/card?username=M0stafa&theme=transparent&force_username=true&hide_border=true"
-        width="700"
+        width="100%"
         alt="M0stafa Codeforces Stats"
       />
     </td>
@@ -172,7 +172,7 @@
       <img
         src="https://leetcard.jacoblin.cool/m0stafa_kamal?&theme=transparent&hide_border=true"
         width="100%"
-        alt="RaMostafa's Leetcode Stats"
+        alt="Mostafa's Leetcode Stats"
       />
     </td>
   </tr>
