@@ -163,14 +163,14 @@
 <tr>
     <td>
       <img
-        src="https://codeforces-readme-stats.vercel.app/api/card?username=M0stafa&theme=transparent&force_username=true&border_color=00000000
+        src="https://codeforces-readme-stats.vercel.app/api/card?username=M0stafa&theme=transparent&force_username=true&border_color=00000000"
         width="100%"
         alt="M0stafa Codeforces Stats"
       />
     </td>
     <td>
       <img
-        src="https://leetcard.jacoblin.cool/m0stafa_kamal?&theme=transparent&hide_border=true"
+        src="https://leetcard.jacoblin.cool/m0stafa_kamal?&theme=transparent&&border_color=00000000"
         width="100%"
         alt="Mostafa's Leetcode Stats"
       />
