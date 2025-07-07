@@ -163,7 +163,7 @@
 <tr>
     <td>
       <img
-        src= "https://codeforces-readme-stats.vercel.app/api/card?username=M0stafa&theme=transparent&force_username=true&hide_border=true"
+        src= "https://codeforces-readme-stats.vercel.app/api/card?username=M0stafa&theme=transparent&hide_border=true"
         width="100%"
         alt="M0stafa Codeforces Stats"
       />
