@@ -106,6 +106,7 @@
 ## <picture><img src = "https://i.giphy.com/W5eoZHPpUx9sapR0eu.webp?raw=true" width = 50px></picture> Github Stats
 <picture> <img align="right" src=https://i.giphy.com/W5eoZHPpUx9sapR0eu.webp" width = 280px, height = 250></picture>
 <table>
+	<!-- Row - 1 -->
   <tr>
     <td>
       <img
@@ -123,6 +124,7 @@
       />
     </td>
   </tr>
+	<!-- Row - 2 -->
   <tr>
     <td>
       <img
@@ -140,6 +142,7 @@
       />
     </td>
   </tr>
+	<!-- Row - 3 -->
   <tr>
     <td>
       <img
@@ -156,6 +159,24 @@
       />
     </td>
   </tr>
+<!-- Row - 4 -->
+<tr>
+    <td>
+      <img
+        src= "https://codeforces-readme-stats.vercel.app/api/card?username=M0stafa&theme=transparent&force_username=true&hide_border=true"
+        width="700"
+        alt="M0stafa Codeforces Stats"
+      />
+    </td>
+    <td>
+      <img
+        src="https://leetcard.jacoblin.cool/m0stafa_kamal?&layout=compact&theme=transparent&hide_border=true"
+        width="100%"
+        alt="RaMostafa's Leetcode Stats"
+      />
+    </td>
+  </tr>
+  
 </table>
 
 <img width = "100%" align="center" src = "https://github-readme-activity-graph.vercel.app/graph?username=mostafa-cse&theme=transparent&hide_border=true"/> 
