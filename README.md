@@ -104,7 +104,6 @@
 
 
 ## <picture><img src = "https://i.giphy.com/W5eoZHPpUx9sapR0eu.webp?raw=true" width = 50px></picture> Github Stats
-<picture> <img align="right" src="https://i.giphy.com/W5eoZHPpUx9sapR0eu.webp" width = 280px, height = 250></picture>
 <table>
 	<!-- Row - 1 -->
   <tr>
