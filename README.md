@@ -61,7 +61,7 @@
 ## <img src = "https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width = 50px> </img> Tech Stack
 
 <table align="center">
-<tr><td align="top" width="50%">
+<tr><td align="top" width="100%">
 
 <h3 align="center">Frontend </h3>
 <div align="center">  
@@ -71,11 +71,9 @@
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 8px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="40" /></a>  
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 8px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="40" /></a>  
 </div>
+</td>
 
-</td><td align="top" width="40%">
-
-
-
+<td align="top" width="100%">
 <h3 align="center">Backend </h3>
 <div align="center">  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 8px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="40" /></a>  
@@ -84,9 +82,10 @@
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 8px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="40" /></a>  
 </div>
 
-</td><td align="top" width="40%">
+</td>
 
 
+<td align="top" width="100%">
 <h3 align="center">Language </h3>
 <div align="center">  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 8px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="40" /></a>  
